@@ -67,6 +67,14 @@ String[] ilcelerArray;
     private void resetCity(String secilenSehir)
     {
         //you can also get a cursor and add Strings as options to city_options instead of what i have done
+       while(true)
+           if (0 == ilcelerArray.length) {
+             break;
+
+           }
+
+
+
         if(secilenSehir.equals("Adana"))
         {
             ilcelerArray = new String[]{"Aladağ", "Ceyhan", "Çukurova", "Feke", "İmamoğlu", "Karaisalı"};
