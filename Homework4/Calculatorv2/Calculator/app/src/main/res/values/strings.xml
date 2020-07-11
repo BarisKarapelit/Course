@@ -1,4 +1,17 @@
 <resources>
     <string name="app_name">Calculator</string>
     <string name="app_button_name">AC</string>
+    <string name="app_islem_ust_alma">^</string>
+    <string name="app_process_power">power</string>
+    <string name="app_proccess_back">←</string>
+    <string name="app_proccess_div">/</string>
+    <string name="app_process_mul">x</string>
+    <string name="app_process_min">-</string>
+    <string name="app_process_sum">+</string>
+    <string name="app_process_point">.</string>
+    <string name="app_process_equal">=</string>
+
+
+
+
 </resources>
