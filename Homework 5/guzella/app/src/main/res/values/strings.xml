@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">guzella</string>
+    <string name="app_search_text">guzella"'"da ara</string>
+    <string name="app_new_product_text" > Yeni Eklenen Ürünler</string>
+    <string name="tab_text_1">Ana Sayfa</string>
+    <string name="tab_text_2">Ara</string>
+    <string name="tab_text_3">Sepetim</string>
+    <string name="tab_text_4">Hesabim</string>
+    <string name="tab_text_5">Diğer</string>
+</resources>
